@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(233, 233, 233);
+    max-width: 900px;
+    margin: auto;
+}
+#title, .subtitle, .post_title{
+    color: rgb(3, 3, 37);
+}
+.photo_GD{
+    border: 2px solid rgb(187, 187, 187);
+    width: 100px;
+    border-radius: 50%;
+}
+h1{
+    padding: 0;
+    margin: 0;
+}
+.post_title{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background-color: white;
+    padding: 15px;
+    border: 3px solid rgb(182, 182, 182);
+    margin-bottom: 10px;
+    border-radius: 8px;
+
+}
+
+.post_content{
+    margin: 0;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+.post_content a{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+}
+.post_image{
+    margin-bottom: 15px;
+    width: 100%;
+}
+
+.listas{
+    color: rgb(255, 0, 0);
+}
+
+footer a{
+    font-family: Arial, Helvetica, sans-serif, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(41, 40, 40);
+}
